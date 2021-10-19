@@ -24,4 +24,12 @@ Enter an integer:-1
 The largest number you entered is 92
 """
 
+list1 = []
+num1= int(input("enter a number: "))
+num2= int(input("enter a number: "))
+num3= int(input("enter a number: "))
+num4= int(input("enter a number: "))
+num5= int(input("enter a number: "))
+num6= int(input("enter a number: "))
+num8= int(input("enter a number: "))
 
